@@ -18,7 +18,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Leaderboard,Vaults,Rewards,Markets,Swap",
-  "VITE_CUSTOM_MENUS": "website, https://arcanevault.xyz",
+  "VITE_CUSTOM_MENUS": "website, https://arcanevault.xyz; Telegram, https://t.me/ArcaneVault_xyz; Twitter, https://x.com/ArcaneVault_xyz",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/ArcaneVault_xyz",
   "VITE_DISCORD_URL": "",
