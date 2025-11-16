@@ -1,10 +1,11 @@
 window.__RUNTIME_CONFIG__ = {
   "VITE_ORDERLY_BROKER_ID": "demo",
   "VITE_ORDERLY_BROKER_NAME": "Arcanevault",
+  "VITE_BROKER_EOA_ADDRESS": "0x04f8bf2c70988c1721dcf6b9979b2edee0afa56e",
   "VITE_DISABLE_MAINNET": "false",
   "VITE_DISABLE_TESTNET": "true",
   "VITE_ORDERLY_MAINNET_CHAINS": "56,1,900900900,10,42161,8453",
-  "VITE_ORDERLY_TESTNET_CHAINS": "421614,84532,97,901901901,11124",
+  "VITE_ORDERLY_TESTNET_CHAINS": "421614,97,10143,11124,901901901",
   "VITE_DEFAULT_CHAIN": "56",
   "VITE_PRIVY_APP_ID": "",
   "VITE_PRIVY_LOGIN_METHODS": "email",
@@ -19,6 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Leaderboard,Vaults,Rewards,Markets,Swap",
   "VITE_CUSTOM_MENUS": "website, https://arcanevault.xyz; Telegram, https://t.me/ArcaneVault_xyz; Twitter, https://x.com/ArcaneVault_xyz",
+  "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "https://t.me/ArcaneVault_xyz",
   "VITE_DISCORD_URL": "",
@@ -34,5 +36,6 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_AVAILABLE_LANGUAGES": "en,zh,ja,es,ko,vi,de,fr,ru,id,tr,it,pt,uk,pl,nl",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
-  "VITE_TRADING_VIEW_COLOR_CONFIG": ""
+  "VITE_TRADING_VIEW_COLOR_CONFIG": "",
+  "VITE_ANALYTICS_SCRIPT": ""
 };
